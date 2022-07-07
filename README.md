@@ -1,4 +1,7 @@
-# pcmarket
-[pcmarket.uz](https://pcmarket.uz/) saytining quyidagi struktura asosida qilingan spring boot dasturi
+# pcmarket security
+## Roles:
+###### SUPER_ADMIN
+###### MODERATOR
+###### OPERATOR
 
-![erDiagram](pcmarket-er-diagram.png)
+
